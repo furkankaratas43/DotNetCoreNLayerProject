@@ -1,0 +1,12 @@
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\bin\Debug\net6.0\CDLayer.Core.deps.json
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\bin\Debug\net6.0\CDLayer.Core.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\bin\Debug\net6.0\CDLayer.Core.pdb
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.AssemblyInfo.cs
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\refint\CDLayer.Core.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\CDLayer.Core.pdb
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Core\obj\Debug\net6.0\ref\CDLayer.Core.dll

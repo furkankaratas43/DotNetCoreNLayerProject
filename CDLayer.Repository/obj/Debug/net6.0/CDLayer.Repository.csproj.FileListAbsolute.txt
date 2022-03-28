@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Repository.deps.json
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Repository.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Repository.pdb
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Core.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Core.pdb
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.AssemblyInfo.cs
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.csproj.CopyComplete
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\refint\CDLayer.Repository.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.pdb
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\ref\CDLayer.Repository.dll
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\bin\Debug\net6.0\CDLayer.Repository.runtimeconfig.json
+C:\Users\furka\source\repos\CDLayerApp\CDLayer.Repository\obj\Debug\net6.0\CDLayer.Repository.genruntimeconfig.cache
