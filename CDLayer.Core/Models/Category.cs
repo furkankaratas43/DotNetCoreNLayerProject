@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CDLayer.Core
+namespace CDLayer.Core.Models
 {
     public class Category : BaseEntity
     {

@@ -1,4 +1,4 @@
-﻿using CDLayer.Core;
+﻿using CDLayer.Core.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

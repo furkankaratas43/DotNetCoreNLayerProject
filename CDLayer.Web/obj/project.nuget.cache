@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7O1wIXUPeVnGT4QYIvX0eaDISNGAuT066z08gavkZLMc+jYLJRDTYsVbfy1g0N8JAKhGUcW8cdsFbKkEvXPBwQ==",
+  "dgSpecHash": "1mkGAWNEr/Um0CeE/YWs9nNo7MQm9rTsXHfhr2paRa5rx7POkDcVdwkBBVAZXb2kfNs+I0fijPYgaNLbwKHHTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\furka\\source\\repos\\CDLayerApp\\CDLayer.Web\\CDLayer.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\furka\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
